@@ -1,0 +1,164 @@
+[
+  {
+      "id": "1",
+      "name": "Chanel No. 5",
+      "description": "The classic floral fragrance with notes of jasmine, rose, and ylang-ylang.",
+      "price": "$120.00",
+      "images": ["assets/images/10.jpg", "assets/images/32.jpg", "assets/images/30.jpg", "assets/images/31.jpg"],
+      "rating": 3.0,
+      "category": "floral"
+  },
+  {
+      "id": "2",
+      "name": "Dior Sauvage",
+      "description": "A bold and fresh fragrance with notes of bergamot and amberwood.",
+      "price": "$105.00",
+      "images": ["assets/images/11.jpg", "assets/images/33.jpg", "assets/images/34.jpg"],
+      "rating": 4.8,
+      "category": "woody"
+  },
+  {
+      "id": "3",
+      "name": "Jo Malone Peony & Blush Suede",
+      "description": "A luxurious floral scent with peony and red apple.",
+      "price": "$144.00",
+      "images": ["assets/images/12.jpg", "assets/images/35.jpg", "assets/images/36.jpg"],
+      "rating": 4.7,
+      "category": "floral"
+  },
+  {
+      "id": "4",
+      "name": "Versace Eros",
+      "description": "A vibrant and fresh fragrance with mint leaves, lemon zest, and green apple.",
+      "price": "$88.00",
+      "images": ["assets/images/13.jpg", "assets/images/37.jpg", "assets/images/38.jpg"],
+      "rating": 2,
+      "category": "citrus"
+  },
+  {
+      "id": "5",
+      "name": "YSL Black Opium",
+      "description": "A sensual and addictive scent with coffee, vanilla, and white flowers.",
+      "price": "$130.00",
+      "images": ["assets/images/14.jpg", "assets/images/39.jpg", "assets/images/40.jpg"],
+      "rating": 4,
+      "category": "gourmand"
+  },
+  {
+      "id": "6",
+      "name": "Gucci Bloom",
+      "description": "A rich white floral scent with tuberose and jasmine.",
+      "price": "$110.00",
+      "images": ["assets/images/15.png", "assets/images/41.jpg", "assets/images/42.jpg"],
+      "rating": 4.6,
+      "category": "floral"
+  },
+  {
+      "id": "7",
+      "name": "Tom Ford Oud Wood",
+      "description": "A smoky and mysterious fragrance with oud wood and spices.",
+      "price": "$250.00",
+      "images": ["assets/images/16.jpg", ""],
+      "rating": 3.5,
+      "category": "woody"
+  },
+  {
+      "id": "8",
+      "name": "Creed Aventus",
+      "description": "A fruity and woody fragrance with pineapple, bergamot, and birch.",
+      "price": "$435.00",
+      "images": ["assets/images/17.jpg", ""],
+      "rating": 5.0,
+      "category": "woody"
+  },
+  {
+      "id": "9",
+      "name": "Marc Jacobs Daisy",
+      "description": "A fresh floral fragrance with wild strawberry, violet, and jasmine.",
+      "price": "$86.00",
+      "images": ["assets/images/18.png", ""],
+      "rating": 3,
+      "category": "floral"
+  },
+  {
+      "id": "10",
+      "name": "Dolce & Gabbana Light Blue",
+      "description": "A fresh and fruity scent with Sicilian lemon, apple, and cedarwood.",
+      "price": "$102.00",
+      "images": ["assets/images/19.png", ""],
+      "rating": 3,
+      "category": "citrus"
+  },
+  {
+      "id": "11",
+      "name": "Calvin Klein Eternity",
+      "description": "A timeless aromatic fragrance with sage, freesia, and sandalwood.",
+      "price": "$68.00",
+      "images": ["assets/images/20.png", ""],
+      "rating": 1,
+      "category": "aromatic"
+  },
+  {
+      "id": "12",
+      "name": "Paco Rabanne 1 Million",
+      "description": "A spicy and seductive fragrance with cinnamon, leather, and amber.",
+      "price": "$95.00",
+      "images": ["assets/images/21.png", ""],
+      "rating": 4.8,
+      "category": "spicy"
+  },
+  {
+      "id": "13",
+      "name": "Lancome La Vie Est Belle",
+      "description": "A sophisticated sweet fragrance with iris, praline, and vanilla.",
+      "price": "$120.00",
+      "images": ["assets/images/22.png", ""],
+      "rating": 4.7,
+      "category": "sweet"
+  },
+  {
+      "id": "14",
+      "name": "Hermes Terre d'Hermes",
+      "description": "A woody and earthy fragrance with orange, vetiver, and cedar.",
+      "price": "$138.00",
+      "images": ["assets/images/23.png", ""],
+      "rating": 4.9,
+      "category": "woody"
+  },
+  {
+      "id": "15",
+      "name": "Byredo Gypsy Water",
+      "description": "A woody aromatic fragrance with pine, juniper berries, and vanilla.",
+      "price": "$190.00",
+      "images": ["assets/images/24.jpg", ""],
+      "rating": 4.8,
+      "category": "aromatic"
+  },
+  {
+    "id": "16",
+    "name": "DIPTYQUE Eau Capitale",
+    "description": "A floral fragrance with notes of rose, bergamot, and pink peppercorn.",
+    "price": "$190.00",
+    "images": ["assets/images/27.png", ""],
+    "rating": 4.8,
+    "category": "floral"
+  },
+  {
+    "id": "17",
+    "name": "Le Labo Ylang 49",
+    "description": "A floral fragrance with notes of ylang-ylang, patchouli, and vetiver.",
+    "price": "$280.00",
+    "images": ["assets/images/25.png", ""],
+    "rating": 4.8,
+    "category": "floral"
+  },
+  {
+    "id": "18",
+    "name": "Dior Miss Dior",
+    "description": "A floral fragrance with notes of rose, bergamot, and patchouli.",
+    "price": "$130.00",
+    "images": ["assets/images/28.png", ""],
+    "rating": 4.8,
+    "category": "floral"
+  }
+]

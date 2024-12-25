@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Explore Kareem Perfume - where elegance meets timeless fragrance." />
+    <meta name="keywords" content="Perfume, Fragrance, Luxury, Kareem, Products" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Perfume Passion</title>
+    
+    <link rel="stylesheet" href="assets/css/home.css" />
+    <link rel="stylesheet" href="assets/css/product.css" />
+    <link rel="stylesheet" href="assets/css/footer.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+   
+    <div class="wrapper">
+
+      <header>
+        <h1>Kareem Perfume</h1>
+        <nav id="main-nav">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="cart.html"><i class="fa fa-shopping-cart"></i></a></li>
+          </ul>
+        </nav>
+      
+        <div id="hamburger-menu" class="hamburger">&#9776;</div>
+      </header>
+
+        <div id="message-box"></div>
+
+        <main>
+            <h2>Our Products</h2>
+            <div style="text-align: center; margin-bottom: 20px;">
+                <input type="text" id="search-bar" placeholder="Search products..." />
+                <select id="sort-dropdown">
+                    <option value="default">Sort by</option>
+                    <option value="price-asc">Price: Low to High</option>
+                    <option value="price-desc">Price: High to Low</option>
+                    <option value="rating">Rating</option>
+                </select>
+                <select id="category-dropdown">
+                    <option value="all">All Categories</option>
+                    <option value="floral">Floral</option>
+                    <option value="woody">Woody</option>
+                    <option value="citrus">Citrus</option>
+                    <option value="aromatic">aromatic</option>
+                    <option value="sweet">sweet</option>
+                    <option value="spicy">spicy</option>
+                    <option value="gourmand">gourmand</option>
+                </select>
+            </div>
+
+            <section id="products">
+                <div id="product-grid" class="grid">
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <div class="footer-container">
+              <div class="footer-left">
+                <p>
+                  We are a premium perfume brand dedicated to crafting timeless fragrances
+                  that capture cherished memories. Let our scents take you on 
+                  an unforgettable journey!
+                </p>
+                <p>&copy; 2024 Kareem Abuayyash. All rights reserved.</p>
+    
+                
+              </div>
+                <div class="footer-center">
+                <h3>Contact</h3>
+                <p>
+                  <i class="fas fa-map-marker-alt"></i> Beit-Ummar Hebron Palestine<br/>
+                  <i class="fas fa-phone-alt"></i> +972 597174215<br/>
+                  <i class="fas fa-envelope"></i> 
+                  <a href="mailto:kareemabuayyash0@gmail.com" class="footer-email">
+                    kareemabuayyash0@gmail.com
+                  </a><br/>
+                  <i class="fab fa-skype"></i> kareem_perfume
+                </p>
+              </div>
+          
+              <div class="footer-right">
+                <h3>Follow Us</h3>
+                <div class="social-icons">
+                  <a href="https://www.facebook.com/kareem.abuayyash.50" aria-label="Facebook" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                  <a href="https://www.instagram.com/kareem_abuayyash/" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-instagram"></i>
+                  </a>
+                  <a href="https://github.com/KareemAbuayyash" aria-label="Github" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-github"></i>
+                  </a>
+                  <a href="#" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                    
+                  <a href="#" aria-label="Pinterest" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-pinterest-p"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </footer>
+
+    </div> 
+
+    <script src="assets/js/product-loader.js"></script>
+</body>
+</html>
