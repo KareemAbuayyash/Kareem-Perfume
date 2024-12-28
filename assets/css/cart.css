@@ -155,7 +155,7 @@ main {
   bottom: -80px;            
   left: 50%;
   transform: translateX(-50%);
-  background-color: #13cc4e;
+  background: linear-gradient(90deg, #4b0082, #200016);
   color: white;
   padding: 10px 20px;
   border-radius: 4px;
