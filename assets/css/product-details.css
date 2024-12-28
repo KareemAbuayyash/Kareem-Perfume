@@ -14,7 +14,7 @@
     left: 50%;
     transform: translateX(-50%);
     bottom: -80px;
-    background-color: #29b6f6;
+    background: linear-gradient(90deg, #4b0082, #200016);
     color: #fff;
     padding: 10px 15px;
     border-radius: 4px;
