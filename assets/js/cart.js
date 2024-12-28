@@ -111,8 +111,14 @@ $(document).ready(function() {
       showMessage('Cart is empty. Please add some items before purchasing!');
     } else {
       localStorage.removeItem('cart');
+      
       loadCart();
+    
+      $('#subtotal').text('0.00');
+      $('#total').text('0.00');
+      
       showMessage('Thank you for your purchase!');
     }
   });
+  
 });
