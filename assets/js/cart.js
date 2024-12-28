@@ -25,7 +25,7 @@ function loadCart() {
   }
 
   let subtotal = 0;
-  const shippingCost = 10.00;
+  const shippingCost = 0.00;
 
   cart.forEach((item, index) => {
     const itemPrice = parseFloat(item.price.replace('$', '')) || 0;
